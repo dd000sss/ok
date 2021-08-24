@@ -10,4 +10,4 @@ async def on_ready():
 @bot.command()
 async def TCP_DOWN(ctx, ip, port):
   os.system(f"python3 TCP_DOWN.py {ip} {port}")
-bot.run("ODcyMjE4OTcxNDc3MjU4MzEx.YQmrNw.ZlALiE27d-oRCMq4DRA3ozUPYmA")
+bot.run("ODcyMjE4OTcxNDc3MjU4MzEx.YQmrNw.3Mwi0f2UOgPOCVeuaU-Q_7ckOd4")
